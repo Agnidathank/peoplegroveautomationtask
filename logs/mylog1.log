@@ -1,0 +1,922 @@
+[INFO ] 2025-08-08 17:33:21.376 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-08 17:33:26.140 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-08 17:33:26.307 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-08 17:33:26.420 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-08 17:33:27.868 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-08 17:33:32.984 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-08 17:33:34.402 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-08 17:33:34.617 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-08 17:33:36.756 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-08 17:33:36.893 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-08 17:33:37.218 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-08 17:33:37.452 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-08 17:33:37.555 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-08 17:33:39.326 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-08 17:33:40.723 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-08 17:33:44.838 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-08 17:33:45.020 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-08 17:33:48.723 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-08 17:33:54.541 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-08 17:33:54.769 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-08 17:33:59.625 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 11:19:36.287 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 11:19:37.742 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 11:19:37.742 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 11:19:37.746 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 11:19:37.955 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 11:19:38.115 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 11:19:52.216 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 11:20:54.940 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 11:20:56.259 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 11:20:56.259 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 11:20:56.262 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 11:20:56.442 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 11:20:56.576 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 11:20:57.948 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 11:21:06.323 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 11:21:12.642 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 11:21:34.793 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 11:21:36.196 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 11:21:36.197 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 11:21:36.200 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 11:21:36.375 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 11:21:36.499 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 11:21:37.860 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 11:21:44.975 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 11:21:49.858 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 11:21:50.035 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 11:21:50.162 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 11:21:50.265 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 11:21:55.381 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 11:21:55.479 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 11:21:57.026 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 11:21:58.882 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 11:21:59.048 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 11:21:59.377 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 11:21:59.619 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 11:21:59.709 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 11:22:01.470 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 11:22:02.760 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 11:22:06.800 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 11:22:06.991 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 11:22:10.710 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 11:22:17.641 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 11:22:17.895 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 11:22:22.641 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 11:39:00.806 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 11:40:24.729 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 11:40:26.103 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 11:40:26.103 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 11:40:26.107 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 11:40:26.299 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 11:40:26.428 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 11:40:32.227 [main] FrameworkDevelopment - Sign out button was clicked
+[INFO ] 2025-08-11 11:40:32.332 [main] FrameworkDevelopment - Page title doesn't match
+[INFO ] 2025-08-11 11:41:54.356 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 11:41:55.831 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 11:41:55.831 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 11:41:55.836 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 11:41:56.031 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 11:41:56.186 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 11:42:00.668 [main] FrameworkDevelopment - Sign out button was clicked
+[INFO ] 2025-08-11 11:42:00.686 [main] FrameworkDevelopment - Page title verified
+[INFO ] 2025-08-11 11:47:19.691 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 11:47:24.844 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 11:47:24.844 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 11:47:24.848 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 11:47:25.018 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 11:47:25.142 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 11:47:27.021 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 11:47:32.575 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 11:47:32.575 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 11:47:32.577 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 11:47:33.010 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 11:47:33.109 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 11:47:51.735 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 11:47:53.991 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 11:47:54.168 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 11:47:54.287 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 11:47:55.646 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 11:48:00.781 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 11:48:02.318 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 11:48:02.567 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 11:48:04.450 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 11:48:04.593 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 11:48:04.918 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 11:48:05.155 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 11:48:05.253 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 11:48:07.131 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 11:48:08.454 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 11:48:12.451 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 11:48:12.652 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 11:48:16.351 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 11:48:22.966 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 11:48:23.188 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 11:48:27.860 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 12:18:37.449 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:18:44.734 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 12:18:44.735 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 12:18:44.738 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 12:18:45.019 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 12:18:45.230 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 12:18:47.205 [main] FrameworkDevelopment - verifyLogin - Failed
+[INFO ] 2025-08-11 12:18:56.460 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:18:59.148 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 12:18:59.321 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 12:18:59.448 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 12:18:59.652 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 12:19:04.919 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 12:19:06.398 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 12:19:06.616 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 12:19:08.044 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 12:21:05.506 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:21:11.429 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 12:21:11.429 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 12:21:11.433 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 12:21:11.605 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 12:21:11.776 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 12:21:13.541 [main] FrameworkDevelopment - verifyLogin - Failed
+[INFO ] 2025-08-11 12:21:22.581 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:21:24.937 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 12:21:25.117 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 12:21:25.240 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 12:21:26.726 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 12:21:31.908 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 12:21:32.034 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 12:21:34.399 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 12:21:36.409 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 12:21:36.590 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 12:21:36.941 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 12:21:37.199 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 12:21:37.294 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 12:21:39.860 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 12:21:41.935 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 12:21:45.166 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 12:21:47.484 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 12:21:51.421 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 12:21:57.105 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 12:21:57.577 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 12:22:02.923 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 12:22:48.970 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:24:00.675 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:24:07.022 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 12:24:07.022 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 12:24:07.026 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 12:24:07.190 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 12:24:07.311 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 12:24:13.639 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 12:24:13.654 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 12:25:20.441 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:25:26.431 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 12:25:26.432 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 12:25:26.436 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 12:25:26.654 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 12:25:26.825 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 12:25:33.080 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 12:25:33.104 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 12:37:57.041 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:38:03.431 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 12:38:03.434 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 12:38:03.453 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 12:38:03.661 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 12:38:03.848 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 12:38:05.899 [main] FrameworkDevelopment - verifyLogin - Failed
+[INFO ] 2025-08-11 12:38:26.271 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:38:28.385 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 12:38:28.564 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 12:38:28.697 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 12:38:30.249 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 12:38:35.438 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 12:38:37.726 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 12:38:40.699 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 12:38:42.682 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 12:38:42.889 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 12:38:43.278 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 12:38:43.499 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 12:38:43.605 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 12:38:45.702 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 12:38:47.464 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 12:38:51.688 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 12:38:51.927 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 12:38:55.805 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 12:39:03.480 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 12:39:03.804 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 12:39:08.782 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 12:41:55.060 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:42:00.416 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 12:42:00.434 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 12:42:00.443 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 12:42:00.632 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 12:42:00.806 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 12:42:02.812 [main] FrameworkDevelopment - verifyLogin - Failed
+[INFO ] 2025-08-11 12:43:02.290 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:43:08.548 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 12:43:08.548 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 12:43:08.552 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 12:43:08.761 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 12:43:08.912 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 12:43:10.716 [main] FrameworkDevelopment - verifyLogin - Failed
+[INFO ] 2025-08-11 12:46:37.622 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:48:28.104 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:49:05.901 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:50:14.717 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:50:19.057 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 12:50:19.058 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 12:50:19.061 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 12:50:19.233 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 12:50:19.352 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 12:50:24.208 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 12:50:24.219 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 12:50:56.274 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:51:01.213 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 12:51:01.215 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 12:51:01.218 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 12:51:01.466 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 12:51:01.620 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 12:51:04.941 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 12:51:50.788 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:51:55.551 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 12:51:55.552 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 12:51:55.555 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 12:51:55.730 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 12:51:55.856 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 12:51:57.660 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 12:52:03.706 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 12:52:03.709 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 12:52:03.710 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 12:52:03.844 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 12:52:03.938 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 12:52:08.296 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 12:52:08.323 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 12:52:18.927 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:52:21.060 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 12:52:21.229 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 12:52:21.407 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 12:52:22.968 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 12:52:28.126 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 12:52:29.685 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 12:52:29.967 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 12:52:32.414 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 12:52:32.554 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 12:52:32.884 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 12:52:33.116 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 12:52:33.229 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 12:52:35.377 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 12:52:36.956 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 12:52:40.041 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 12:52:42.244 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 12:52:46.003 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 12:52:46.110 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 12:52:52.854 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 12:52:57.664 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 12:54:56.907 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:55:01.230 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 12:55:01.233 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 12:55:01.236 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 12:55:01.410 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 12:55:01.526 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 12:55:03.309 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 12:55:31.758 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 12:55:34.236 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 12:55:34.417 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 12:55:34.535 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 12:55:36.520 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 12:55:41.635 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 12:55:43.252 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 12:55:43.470 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 12:55:45.577 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 12:55:45.730 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 12:55:46.070 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 12:55:46.334 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 12:55:46.432 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 12:55:48.982 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 12:55:50.736 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 12:55:57.067 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 12:55:57.254 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 12:56:01.303 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 12:56:08.005 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 12:56:08.294 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 12:56:13.125 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 13:00:02.593 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 13:00:07.280 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 13:00:07.281 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 13:00:07.284 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 13:00:07.473 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 13:00:07.615 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 13:00:09.613 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 13:05:06.617 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 13:05:11.060 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 13:05:11.060 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 13:05:11.063 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 13:05:11.235 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 13:05:11.369 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 13:05:13.421 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 14:54:23.307 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 14:54:27.889 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 14:54:27.890 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 14:54:27.893 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 14:54:28.067 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 14:54:28.194 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 14:54:30.237 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 14:55:58.220 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 14:56:02.903 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 14:56:02.904 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 14:56:02.907 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 14:56:03.089 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 14:56:03.211 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 14:56:05.247 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 14:56:14.428 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 14:56:14.438 [main] FrameworkDevelopment - ----Page title doesn't match----
+[INFO ] 2025-08-11 14:57:05.157 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 14:57:10.128 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 14:57:10.129 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 14:57:10.132 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 14:57:10.309 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 14:57:10.468 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 14:57:12.554 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 14:57:22.011 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 14:57:22.022 [main] FrameworkDevelopment - ----Page title doesn't match----
+[INFO ] 2025-08-11 14:59:14.770 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 14:59:21.109 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 14:59:21.110 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 14:59:21.115 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 14:59:21.301 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 14:59:21.481 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 14:59:23.999 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 14:59:30.136 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 14:59:30.161 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 15:41:52.604 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:41:57.101 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 15:41:57.102 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 15:41:57.104 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 15:41:57.295 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 15:41:57.421 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 15:41:58.978 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 15:42:03.667 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 15:42:03.684 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 15:42:13.759 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:42:16.489 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 15:42:16.733 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 15:42:16.877 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 15:42:17.030 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 15:42:22.312 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 15:42:24.229 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 15:42:24.514 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 15:42:26.582 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 15:42:26.797 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 15:42:27.528 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 15:42:27.909 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 15:42:28.094 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 15:42:31.401 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 15:42:32.879 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 15:42:35.975 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 15:42:38.535 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 15:42:43.058 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 15:42:50.459 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 15:42:50.704 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 15:42:55.655 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 15:47:05.801 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:47:10.526 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 15:47:10.526 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 15:47:10.530 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 15:47:10.718 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 15:47:10.870 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 15:47:12.675 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 15:47:17.126 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 15:47:17.137 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 15:47:54.071 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:47:58.936 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 15:47:58.937 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 15:47:58.940 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 15:47:59.137 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 15:47:59.277 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 15:48:01.031 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 15:48:05.571 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 15:48:05.591 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 15:48:19.677 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:48:37.367 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:48:42.189 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 15:48:42.189 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 15:48:42.192 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 15:48:42.379 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 15:48:42.509 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 15:48:44.505 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 15:48:49.030 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 15:48:49.061 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 15:49:00.102 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:49:02.523 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 15:49:02.711 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 15:49:02.833 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 15:49:04.259 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 15:49:09.420 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 15:49:11.152 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 15:49:11.434 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 15:49:13.419 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 15:49:13.571 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 15:49:13.929 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 15:49:14.180 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 15:49:14.268 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 15:49:16.368 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 15:49:17.841 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 15:49:59.733 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:50:00.801 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:50:06.621 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 15:50:06.622 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 15:50:06.634 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 15:50:07.956 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 15:50:08.329 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 15:50:08.523 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 15:50:08.647 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 15:50:13.785 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 15:50:15.160 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 15:50:15.363 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 15:50:18.283 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 15:50:18.458 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 15:50:18.761 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 15:50:18.994 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 15:50:19.105 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 15:50:21.018 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 15:50:22.300 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 15:50:25.911 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 15:50:26.485 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 15:50:30.235 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 15:50:36.044 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 15:50:36.303 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 15:50:41.310 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 15:52:06.950 [TestNG-tests-1] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:52:13.051 [TestNG-tests-1] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 15:52:13.052 [TestNG-tests-1] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 15:52:13.055 [TestNG-tests-1] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 15:52:13.203 [TestNG-tests-1] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 15:52:13.315 [TestNG-tests-1] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 15:52:15.162 [TestNG-tests-1] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 15:52:21.532 [TestNG-tests-1] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:52:40.845 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:52:41.645 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:52:47.488 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 15:52:47.489 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 15:52:47.494 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 15:52:48.898 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 15:52:49.133 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 15:52:49.287 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 15:52:50.952 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 15:52:56.048 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 15:52:56.144 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 15:52:57.670 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 15:52:59.672 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 15:52:59.822 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 15:53:00.285 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 15:53:00.551 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 15:53:00.641 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 15:53:02.747 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 15:53:04.115 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 15:53:07.219 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 15:53:09.623 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 15:53:13.478 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 15:53:13.590 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 15:53:20.423 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 15:53:25.979 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 15:57:34.171 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:57:34.987 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 15:57:39.959 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 15:57:39.959 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 15:57:39.962 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 15:57:43.161 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 15:57:43.319 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 15:57:45.292 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 15:57:49.629 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 15:57:49.638 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 16:02:27.243 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:02:28.090 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:02:36.217 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 16:02:36.221 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 16:02:36.228 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 16:02:37.503 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 16:02:39.500 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 16:02:39.672 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 16:02:51.461 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 16:02:55.996 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 16:02:56.011 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 16:03:39.836 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:03:40.742 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:03:48.708 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 16:03:48.709 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 16:03:48.719 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 16:03:49.771 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 16:03:51.892 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 16:03:52.020 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 16:04:04.775 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 16:04:09.617 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 16:04:09.660 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 16:04:42.572 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:04:50.918 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 16:04:50.918 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 16:04:50.921 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 16:04:54.062 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 16:04:54.159 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 16:04:56.115 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 16:05:00.688 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 16:05:00.707 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 16:05:21.816 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:05:27.661 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 16:05:30.796 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 16:05:30.942 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 16:05:32.696 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 16:05:37.825 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 16:05:37.912 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 16:05:46.071 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 16:05:49.389 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 16:05:49.534 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 16:05:50.898 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 16:05:51.118 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 16:05:51.207 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 16:05:54.443 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 16:05:55.988 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 16:05:59.082 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 16:06:00.427 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 16:06:04.335 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 16:06:04.427 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 16:06:11.736 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 16:06:16.647 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 16:13:56.032 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:14:03.618 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 16:14:03.621 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 16:14:03.624 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 16:14:06.794 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 16:14:06.911 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 16:14:08.834 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 16:14:13.337 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 16:14:13.355 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 16:15:05.908 [TestNG-tests-1] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:15:12.042 [TestNG-tests-1] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 16:15:12.043 [TestNG-tests-1] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 16:15:12.065 [TestNG-tests-1] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 16:15:30.204 [TestNG-tests-1] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:15:37.719 [TestNG-tests-1] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 16:15:37.720 [TestNG-tests-1] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 16:15:37.724 [TestNG-tests-1] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 16:15:40.908 [TestNG-tests-1] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 16:15:41.036 [TestNG-tests-1] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 16:15:42.879 [TestNG-tests-1] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 16:15:48.315 [TestNG-tests-1] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:16:08.547 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:16:09.342 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:16:17.011 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 16:16:17.011 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 16:16:17.015 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-1] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 16:16:18.130 [TestNG-test-C:/Users/W3villa/Desktop/Automation Framework Development/FrameworkDevelopment/src/test/java/com/practice/testCases/productPageTestCase.java-2] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 16:17:13.123 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:17:21.055 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 16:17:21.057 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 16:17:21.066 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 16:17:24.222 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 16:17:24.324 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 16:17:26.172 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 16:17:30.584 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 16:17:30.595 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 16:17:41.433 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:17:46.982 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 16:17:50.111 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 16:17:50.207 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 16:17:50.300 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 16:17:55.396 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 16:17:56.901 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 16:17:57.103 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 16:17:58.947 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 16:17:59.112 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 16:17:59.440 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 16:17:59.664 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 16:17:59.757 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 16:18:02.483 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 16:18:04.082 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 16:18:08.169 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 16:18:09.822 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 16:18:13.704 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 16:18:20.399 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 16:18:20.635 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 16:18:25.490 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 16:40:00.252 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:40:08.028 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 16:40:08.029 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 16:40:08.031 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 16:40:11.204 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 16:40:11.318 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 16:40:13.582 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 16:40:18.914 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 16:40:18.927 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 16:40:47.090 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:40:55.215 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 16:40:58.749 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 16:40:58.934 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 16:41:00.635 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 16:41:05.968 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 16:41:07.618 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 16:41:07.853 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 16:41:09.998 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 16:41:10.223 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 16:41:10.539 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 16:41:10.888 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 16:41:11.024 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 16:41:13.595 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 16:41:15.182 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 16:41:19.622 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 16:41:21.050 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 16:41:24.912 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 16:41:32.715 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 16:41:32.989 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 16:41:38.237 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 16:43:05.311 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:43:14.481 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 16:43:14.482 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 16:43:14.485 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 16:43:17.670 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 16:43:17.803 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 16:43:20.133 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 16:43:24.883 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 16:43:24.896 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 16:43:36.788 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:43:43.024 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 16:43:46.189 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 16:43:46.380 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 16:43:47.842 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 16:43:52.935 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 16:43:53.032 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 16:43:54.668 [main] FrameworkDevelopment - VerifyProduct - Passed
+[INFO ] 2025-08-11 16:46:16.763 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:46:25.713 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 16:46:28.894 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 16:46:29.003 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 16:46:30.459 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 16:46:35.554 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 16:46:36.936 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 16:46:37.006 [main] FrameworkDevelopment - VerifyProduct - Passed
+[INFO ] 2025-08-11 16:47:58.858 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:48:07.621 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 16:48:10.779 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 16:48:10.894 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 16:48:10.988 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 16:48:16.098 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 16:48:17.476 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 16:48:17.550 [main] FrameworkDevelopment - VerifyProduct - Passed
+[INFO ] 2025-08-11 16:52:02.705 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:52:40.551 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:52:50.716 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 16:52:53.898 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 16:52:54.016 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 16:52:55.621 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 16:53:00.750 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 16:53:02.482 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 16:53:02.696 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 16:53:05.420 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 16:53:05.571 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 16:53:05.903 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 16:53:06.135 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 16:53:06.241 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 16:53:08.426 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 16:53:09.903 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 16:53:14.212 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 16:53:15.436 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 16:53:19.370 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 16:53:26.264 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 16:53:26.505 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 16:53:31.720 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 16:56:24.286 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:56:34.213 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 16:56:37.391 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 16:56:37.521 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 16:56:37.616 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 16:56:40.757 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 16:56:40.861 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 16:56:42.272 [main] FrameworkDevelopment - VerifyProduct - Passed
+[INFO ] 2025-08-11 16:57:59.339 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 16:58:08.392 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 16:58:11.584 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 16:58:11.690 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 16:58:13.123 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 16:58:16.218 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 16:58:16.315 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 16:58:17.858 [main] FrameworkDevelopment - VerifyProduct - Passed
+[INFO ] 2025-08-11 17:01:22.934 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 17:01:32.187 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 17:01:35.450 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 17:01:35.571 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 17:01:35.696 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 17:01:38.817 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 17:01:40.505 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 17:01:40.586 [main] FrameworkDevelopment - VerifyProduct - Passed
+[INFO ] 2025-08-11 17:05:40.299 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 17:05:49.027 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 17:05:52.221 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 17:05:52.338 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 17:05:53.998 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 17:05:57.101 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 17:05:58.550 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 17:05:58.625 [main] FrameworkDevelopment - VerifyProduct - Passed
+[INFO ] 2025-08-11 17:06:40.497 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 17:06:48.880 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 17:06:52.073 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 17:06:52.193 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 17:06:53.559 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 17:06:56.660 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 17:06:58.041 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 17:06:58.129 [main] FrameworkDevelopment - VerifyProduct - Passed
+[INFO ] 2025-08-11 17:08:40.174 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 17:08:49.671 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 17:08:52.827 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 17:08:52.943 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 17:08:53.043 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 17:08:56.151 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 17:08:57.508 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 17:08:57.578 [main] FrameworkDevelopment - VerifyProduct - Passed
+[INFO ] 2025-08-11 17:11:28.119 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 17:11:38.302 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 17:11:41.479 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 17:11:41.607 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 17:11:42.899 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 17:11:45.995 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 17:11:47.638 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 17:11:47.727 [main] FrameworkDevelopment - VerifyProduct - Passed
+[INFO ] 2025-08-11 17:13:29.503 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 17:13:40.150 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-11 17:13:40.150 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-11 17:13:40.161 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-11 17:13:43.296 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-11 17:13:43.397 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-11 17:13:45.450 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-11 17:13:47.305 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-11 17:13:47.326 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-11 17:13:58.442 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 17:14:07.110 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 17:14:10.246 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 17:14:10.374 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 17:14:13.266 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 17:14:16.376 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 17:14:16.464 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 17:14:20.389 [main] FrameworkDevelopment - VerifyProduct - Passed
+[INFO ] 2025-08-11 17:14:27.335 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 17:14:30.448 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 17:14:30.524 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 17:14:31.602 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 17:14:34.721 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 17:14:34.805 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 17:14:35.848 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 17:14:37.771 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 17:14:37.928 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 17:14:38.270 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 17:14:38.539 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 17:14:38.639 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 17:14:40.497 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 17:14:41.816 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 17:14:44.926 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 17:14:46.107 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 17:14:49.836 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 17:14:56.617 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 17:14:56.878 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 17:15:03.851 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 17:39:54.079 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 17:41:06.616 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 17:41:11.051 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 17:41:14.202 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 17:41:14.321 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 17:41:15.641 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 17:41:18.760 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 17:41:20.499 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 17:41:20.697 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 17:41:22.802 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 17:41:22.970 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 17:41:23.300 [main] FrameworkDevelopment - Quantity of dress is selected
+[INFO ] 2025-08-11 17:41:23.529 [main] FrameworkDevelopment - Size selected from the dropdown
+[INFO ] 2025-08-11 17:41:23.627 [main] FrameworkDevelopment - Add to cart button is clicked
+[INFO ] 2025-08-11 17:41:26.032 [main] FrameworkDevelopment - Proceed to checkout
+[INFO ] 2025-08-11 17:41:27.372 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button
+[INFO ] 2025-08-11 17:41:31.528 [main] FrameworkDevelopment - Clicked on Proceed to Checkout button on the next page
+[INFO ] 2025-08-11 17:41:31.710 [main] FrameworkDevelopment - Proceed to checkout button on shipping page is clicked
+[INFO ] 2025-08-11 17:41:35.491 [main] FrameworkDevelopment - Clicked on payment method
+[INFO ] 2025-08-11 17:41:42.784 [main] FrameworkDevelopment - Clicked on confirm order button
+[INFO ] 2025-08-11 17:41:43.026 [main] FrameworkDevelopment - verifyBuyProduct - Passed
+[INFO ] 2025-08-11 17:41:49.826 [main] FrameworkDevelopment - Signed Out successfully after ordering
+[INFO ] 2025-08-11 18:17:37.557 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 18:17:41.997 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 18:17:45.245 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 18:17:45.371 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 18:17:46.978 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 18:17:50.085 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 18:17:51.882 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 18:17:52.094 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 18:17:54.081 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 18:17:54.248 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 18:19:36.607 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 18:19:41.291 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 18:19:44.492 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 18:19:44.767 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 18:19:46.838 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 18:19:50.482 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 18:19:52.006 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 18:19:52.225 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 18:19:53.946 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 18:19:54.114 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 18:22:51.206 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 18:22:55.824 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 18:22:59.082 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 18:22:59.259 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 18:23:00.844 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 18:23:03.960 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 18:23:04.058 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 18:23:05.708 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 18:23:07.538 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 18:23:07.731 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 18:30:02.256 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 18:30:07.613 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 18:30:10.751 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 18:30:10.868 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 18:30:12.558 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 18:30:15.662 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 18:30:15.752 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 18:30:17.690 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 18:30:19.567 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 18:30:19.731 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 18:35:14.725 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 18:35:19.176 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 18:35:22.310 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 18:35:22.412 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 18:35:22.502 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 18:35:25.609 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 18:35:25.701 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 18:35:27.710 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 18:35:29.425 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 18:35:29.565 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 18:37:04.353 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-11 18:37:08.815 [main] FrameworkDevelopment - Clicked on sign in button
+[INFO ] 2025-08-11 18:37:11.972 [main] FrameworkDevelopment - Email id entered
+[INFO ] 2025-08-11 18:37:12.109 [main] FrameworkDevelopment - Password entered
+[INFO ] 2025-08-11 18:37:13.510 [main] FrameworkDevelopment - Logged in successfully
+[INFO ] 2025-08-11 18:37:16.611 [main] FrameworkDevelopment - Search term was entered
+[INFO ] 2025-08-11 18:37:16.701 [main] FrameworkDevelopment - Search button is clicked
+[INFO ] 2025-08-11 18:37:18.186 [main] FrameworkDevelopment - Scrolled and hover on the product
+[INFO ] 2025-08-11 18:37:19.900 [main] FrameworkDevelopment - Clicked on more button
+[INFO ] 2025-08-11 18:37:20.047 [main] FrameworkDevelopment - Color selected of the dress that is in stock
+[INFO ] 2025-08-11 18:39:04.866 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-12 10:41:49.934 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-12 10:41:58.074 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-12 10:41:58.075 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-12 10:41:58.082 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-12 10:42:01.248 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-12 10:42:01.351 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-12 10:42:02.935 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-12 10:42:04.350 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-12 10:42:04.367 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-12 10:43:07.762 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-12 10:43:16.142 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-12 10:43:16.142 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-12 10:43:16.146 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-12 10:43:19.304 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-12 10:43:19.413 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-12 10:43:21.025 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-12 10:43:22.384 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-12 10:43:22.405 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-12 10:43:51.527 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-12 10:43:59.819 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-12 10:43:59.821 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-12 10:43:59.823 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-12 10:44:03.020 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-12 10:44:03.160 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-12 10:44:04.822 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-12 10:44:06.154 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-12 10:44:06.173 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-12 10:44:10.170 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-12 10:44:10.170 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-12 10:44:10.172 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-12 10:44:13.288 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-12 10:44:13.366 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-12 10:46:07.189 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-12 10:46:13.329 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-12 10:46:13.329 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-12 10:46:13.332 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-12 10:46:15.545 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-12 10:46:15.760 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-12 10:46:17.396 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-12 10:46:18.726 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-12 10:46:18.751 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-12 10:46:20.763 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-12 10:46:20.764 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-12 10:46:20.765 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-12 10:46:22.885 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-12 10:46:22.966 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-12 10:47:18.351 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-12 10:47:23.594 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-12 10:47:23.594 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-12 10:47:23.598 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-12 10:47:25.761 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-12 10:47:25.924 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-12 10:47:27.528 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-12 10:47:28.918 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-12 10:47:28.947 [main] FrameworkDevelopment - ----Page title verified----
+[INFO ] 2025-08-12 11:46:11.362 [main] FrameworkDevelopment - URL is opened
+[INFO ] 2025-08-12 11:46:18.449 [main] FrameworkDevelopment - Sign in button was clicked
+[INFO ] 2025-08-12 11:46:18.449 [main] FrameworkDevelopment - ----Verify login execution started----
+[INFO ] 2025-08-12 11:46:18.454 [main] FrameworkDevelopment - ----Email entered----
+[INFO ] 2025-08-12 11:46:20.707 [main] FrameworkDevelopment - ----Password entered----
+[INFO ] 2025-08-12 11:46:20.869 [main] FrameworkDevelopment - ----Sign in button clicked----
+[INFO ] 2025-08-12 11:46:22.953 [main] FrameworkDevelopment - verifyLogin - Passed
+[INFO ] 2025-08-12 11:46:24.394 [main] FrameworkDevelopment - ----Sign out button was clicked----
+[INFO ] 2025-08-12 11:46:24.408 [main] FrameworkDevelopment - ----Page title verified----
