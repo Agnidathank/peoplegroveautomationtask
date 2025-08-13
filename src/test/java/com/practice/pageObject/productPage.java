@@ -93,7 +93,8 @@ public class productPage {
     public void selectColor(){
         colorSelect.click();
     }
-    public void increaseQuantity(){
+    public void increaseQuantity() throws InterruptedException {
+        Thread.sleep(3000);
         plusQuantity.click();
     }
 

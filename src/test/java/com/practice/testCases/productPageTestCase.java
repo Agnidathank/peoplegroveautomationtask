@@ -76,8 +76,6 @@ public class productPageTestCase extends baseClass{
         pg.selectColor();
         logger.info("Color selected of the dress that is in stock");
         pg.increaseQuantity();
-        captureScreenShot(driver,"verifyBuyProduct");
-        Assert.fail();
         logger.info("Quantity of dress is selected");
         pg.selectDropdown();
         logger.info("Size selected from the dropdown");

@@ -18,12 +18,12 @@ public class indexPage {
     }
 
     // Find all the web elements from which we want to interact
-    @FindBy(linkText = "Sign in")
+    @FindBy(xpath = "//*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a")
     WebElement signIn;
 
     // Make a method to implement actions on the web element
     public void signIn() throws InterruptedException {
-        Thread.sleep(1000);
+        Thread.sleep(2000);
         signIn.click();
     }
 
