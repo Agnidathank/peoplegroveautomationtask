@@ -2,7 +2,6 @@ package com.practice.utilities;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
-import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
@@ -12,12 +11,11 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-import javax.xml.transform.Result;
 import java.io.File;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class extentReport implements ITestListener {
+public class extentReport1 implements ITestListener {
 
     ExtentSparkReporter htmlReporter;
     ExtentReports reports;
@@ -27,7 +25,8 @@ public class extentReport implements ITestListener {
 
         readConfigFile readConfig = new readConfigFile();
 
-        String reportName = "ExtentReport.html";
+        String timeStamp = new SimpleDateFormat("yyyy.MM.dd HH.mm.ss").format(new Date());
+        String reportName = "Framework report - " + timeStamp + ".html";
         htmlReporter = new ExtentSparkReporter(System.getProperty("user.dir") + "//reports//" + reportName);
         reports = new ExtentReports();
         reports.attachReporter(htmlReporter);
