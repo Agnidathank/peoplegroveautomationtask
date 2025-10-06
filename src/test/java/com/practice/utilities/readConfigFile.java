@@ -8,8 +8,7 @@ import java.util.Properties;
 public class readConfigFile {
 
     Properties properties;
-    String path = "C:\\Users\\W3villa\\Desktop\\Automation Framework Development\\FrameworkDevelopment\\configuration\\config.properties";
-
+    String path = "C:\\Users\\agnidathan.k\\Documents\\Automation_Framework\\Automation-Framework-Selenium-Java\\configuration\\config.properties";
     public readConfigFile(){
 
         try {
@@ -59,6 +58,15 @@ public class readConfigFile {
             return password;
         }else {
             throw new RuntimeException(("Email id is not specified in Configuration file"));
+        }
+    }
+
+    public String getMessage(){
+        String message = properties.getProperty("message");
+        if(message!=null){
+            return message;
+        }else {
+            throw new RuntimeException(("Message is not specified in Configuration file"));
         }
     }
 }

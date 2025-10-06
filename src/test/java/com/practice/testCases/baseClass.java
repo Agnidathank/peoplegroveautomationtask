@@ -1,5 +1,6 @@
 package com.practice.testCases;
 
+import com.practice.pageObject.SignIn;
 import com.practice.utilities.readConfigFile;
 import org.apache.commons.io.FileUtils;
 import org.apache.poi.wp.usermodel.CharacterRun;
@@ -30,14 +31,14 @@ import javax.imageio.ImageIO;
 public class baseClass {
 
     readConfigFile readConfig = new readConfigFile();
+    public static WebDriver driver;
+    public static Logger logger;
+    public SignIn signin;
     String url = readConfig.getUrl();
     String browser = readConfig.getBrowser();
     String email = readConfig.getEmail();
     String password = readConfig.getPassword();
-
-    public static WebDriver driver;
-    public static Logger logger;
-
+    String message = readConfig.getMessage();
     @Parameters("browser")
     @BeforeClass
     public void setup() throws InterruptedException {
@@ -71,12 +72,14 @@ public class baseClass {
         logger = LogManager.getLogger("FrameworkDevelopment");
         driver.get(url);
         logger.info("URL is opened");
+
+
     }
 
     @AfterTest
     public void tearDown() throws InterruptedException {
         Thread.sleep(1000);
-//        driver.close();
+        driver.close();
         driver.quit();
     }
 
